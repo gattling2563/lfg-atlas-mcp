@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "lfg-atlas": {
+      "url": "https://lfgatlas-bot.jonsimm36.workers.dev/mcp"
+    }
+  }
+}
