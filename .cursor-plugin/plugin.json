@@ -1,0 +1,22 @@
+{
+  "name": "lfg-atlas",
+  "description": "Find LFG groups for 110 games, official game news, live player counts and what's hot. Free, no key.",
+  "version": "1.1.0",
+  "author": {
+    "name": "LFG Atlas"
+  },
+  "homepage": "https://lfgatlas.pages.dev",
+  "repository": "https://github.com/gattling2563/lfg-atlas-mcp",
+  "license": "MIT",
+  "keywords": [
+    "gaming",
+    "games",
+    "lfg",
+    "news",
+    "patch-notes",
+    "community",
+    "discord",
+    "real-time-data"
+  ],
+  "logo": "assets/logo-400.png"
+}
