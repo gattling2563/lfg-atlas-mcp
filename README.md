@@ -2,16 +2,16 @@
 
 [![LFG Atlas MCP connector](https://glama.ai/mcp/connectors/dev.pages.lfgatlas/lfg-atlas/badges/score.svg)](https://glama.ai/mcp/connectors/dev.pages.lfgatlas/lfg-atlas)
 
-Find LFG groups for 253 games, official game news, live player counts (real and labeled by source) and what's hot. Free, no key, no sign-in. Never repost players' messages.
+Find LFG groups for 1000 games, official game news, live player counts (real and labeled by source) and what's hot. Free, no key, no sign-in. Never repost players' messages.
 
 This repository documents the **hosted remote MCP server**. It does not contain the LFG Atlas website or worker source code, and it has no secrets, API keys, or admin endpoints.
 
 - **Remote MCP endpoint:** [https://lfgatlas-bot.jonsimm36.workers.dev/mcp](https://lfgatlas-bot.jonsimm36.workers.dev/mcp) (Streamable HTTP, no authentication)
-- **Official registry name:** `dev.pages.lfgatlas/lfg-atlas` v1.1.1
+- **Official registry name:** `dev.pages.lfgatlas/lfg-atlas` v1.2.0
 - **Site:** [lfgatlas.pages.dev](https://lfgatlas.pages.dev)
 - **Docs:** [lfgatlas.pages.dev/developers](https://lfgatlas.pages.dev/developers/)
 
-LFG Atlas helps AI assistants answer "who's looking for a group tonight and what changed in my game?" It is a free, no-auth MCP server for gamers: live looking-for-group posts for 253 games, official patch notes and events (refreshed daily, linked to the source), live player counts and a "what's hot" ranking.
+LFG Atlas helps AI assistants answer "who's looking for a group tonight and what changed in my game?" It is a free, no-auth MCP server for gamers: live looking-for-group posts for 1000 games, official patch notes and events (refreshed daily, linked to the source), live player counts and a "what's hot" ranking.
 
 ## Connect
 
